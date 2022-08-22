@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
 body {
     font-family: 'Roboto', sans-serif;
+    background-image: url(shop-project/images/patt.png);
 
 }
 .container {
@@ -48,4 +49,9 @@ body {
     float: left;
     padding-left: 15px;
     padding-right: 15px;
+}
+.header {
+    background-color: rgba(255, 255, 255, 0.75);
+    height: 100px;
+    padding: 25px 0;
 }
