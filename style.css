@@ -2,7 +2,9 @@
 body {
     font-family: 'Roboto', sans-serif;
     background-image: url(shop-project/images/patt.png);
-
+}
+* {
+    box-sizing: border-box;
 }
 .container {
     width: 1200px;
